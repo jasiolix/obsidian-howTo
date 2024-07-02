@@ -1,0 +1,22 @@
+- streszczenie i podsumowanie na koniec.
+- Streszczenie jest po to by człowiek który nie czytał raportu mógł zrozumieć cel raportu. Podsumowanie jest po to, by człowiek po przeczytaniu raportu wyciągnął z niego najważniesze wnioski, co oznacza że możesz odnieść się do samego raportu, podczas gdy w streszczeniu nie.
+- Zrób szczegółowy draft, by potem nie marnować czasu na zmienianie kolejności rzeczy, niepotrzebne modyfikowanie schematów itp. Może nagraj draft?
+- w analizie tylko obliczenia, wnioski z obliczeń w dyskusji wyników, ale w analizie tłumacz dlaczego robisz wszystko, nie same obliczenia.
+- zależności potrzebne do zrozumienia metody pomiarowej, a nie samego przedmiotu pomiarów (teorii), umieść w opisie pomiarów. 
+- w raporcie umieść już opracowane wyniki pomiarów z niepewnościami itp, a surowe wyniki podaj albo w suplemencie albo w osobnym pliku np. excela.
+- najpierw przedstawe tezę, a potem ją udowodnij. Np jak chcesz opisać wykres, to najpierw go pokaż.
+- w przypadku badania na układach elektrycznych, nie pisz rzeczy typu: przygotowano 2 oporniki, tylko wprowadź te elementy dopiero kiedy opisujesz ich zastosowanie.
+- zawsze miej określony cel: jeśli jesteś na 100 prcnt pewien, że ten cel jest niezbędny dla napisania raportu to nie zbaczaj z niego. Co jakiś czas zadawaj sobie pytanie, czy to co w tej chwili robię przyczynia się do osiągnięcia celu. Najlepiej wybierz mały cel, by nie  multitaskować. 
+- W wynikach i analizie zrób wykresy i przedstaw wyniki w sposób pozwalający na omówienie ich, ale omów je i porównaj do teorii dopiero w dyskusji wyników.
+- Jak robisz dopasowanie to koniecznie zapisz dopasowywaną funkcję. Jeśli na przykład teoria mówi, że U=IR, to napisz ze dopasowujesz funkcję U=AI i w dyskusji wyników napisz czy A jest oszacowaniem R.
+- Jak edytujesz zdjęcia, to używaj painta: do pisania zmiennych używaj kursywy, a do pisania greckich znaków czcionki Symbol (słabe, bo to nie tn sam font, potrzeba cos lepszego). 
+- do rysowania schematów elektronicznych używaj Kicad. 
+- we wstępie pisz tylko o rzeczach, które będą miały zastosowanie dalej, nie pisz o rzeczach które nie mają znaczenia
+- niektóre obliczenia, np to którą zmienną wzięto jako zmienną niezależną przy dopasowaniu, umieść w suplemencie
+- jak już coś raz powiedziałeś to się nie powtarzaj, chyba że to bardzo dobrze wpłynie na czytelność. 
+- Podaj stopień zgodności przy metodzie najmniejszych kwadratów.
+- Jeśli jest jakaś bardziej skomplikowana idea, którą musisz wytłumaczyć, to postaraj się uprościć model do najprostszego jak się da, ale wciąż ilustrującego główną myśl.
+- jesli nie jestes pewien jakiej uzywac konwencji to to przemysl, by potem nie zmieniac zdania. Jesli na przyklad masz pomiary, ktore powtarzasz dla 2 roznych konfiguracji ukladu pomiarowego, to nie oznaczaj tych wartosci: a_1 i a_2, tylko podkreslaj o ktorej konfiguracji mowisz, i uzywaj tylko oznaczenia a, CHYBA ŻE BĘDZIESZ WYKONYWAŁ OBLICZENIA UŻYWAJĄC TYCH WIELKOŚCI JEDNOCZEŚNIE, WTEDY TRZEBA JE JAKOŚ ODRÓŻNIĆ.
+- Na koniec porownaj raport z wymaganiami, zacznij od wersji na brudno
+- Nie musisz koniecznie trzymać się wszystkich reguł jeśli nie mają one sensu w danym przypadku.
+- Oznaczenia i symbole oznacz na koniec, tzn to jakich symboli uzywasz w trakcie pisania ma tylko dla ciebie znaczenie, ale na koniec powinienes zmodyfikowac je tak by byly jak najczytelniejsze dla czytelnika.

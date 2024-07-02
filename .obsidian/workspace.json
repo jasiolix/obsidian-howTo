@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "155505b026bfec5b",
+    "type": "split",
+    "children": [
+      {
+        "id": "a73a17c1f894cb9e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f7c49724c755bd6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Most important Obsidian settings (BL).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "779e9f18463b0b9e",
+    "type": "split",
+    "children": [
+      {
+        "id": "c89e9c2eaa20d074",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "41869508562cf4de",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a25d6a51b0db9f15",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#remember",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8b7764829e12892c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "853a89009a7d5f86",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe5a1cbad966b682",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a4b23fb4d34692da",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Most important Obsidian settings (BL).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "359bae2c0dbd0a1f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Most important Obsidian settings (BL).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8e9dffab35a71072",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "10d520b054d122fb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Most important Obsidian settings (BL).md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f7c49724c755bd6e",
+  "lastOpenFiles": [
+    "Most important community plugins.md",
+    "Most important Obsidian settings (BL).md",
+    "Style and formatting/attachments/Untitled.png",
+    "Anything.md",
+    "Tutorial start.md",
+    "attachments/Untitled.png",
+    "attachments",
+    "Untitled.png",
+    "Style and formatting/Formatting notes How-To.md",
+    "Style and formatting/Untitled.png",
+    "Style and formatting/attachments/Latex-ksiazka.pdf",
+    "Style and formatting/Nice reports How-To.md",
+    "Tutorial end.md",
+    "Third.md",
+    "Second.md",
+    "some other idea.md",
+    "Style and formatting - Copy/attachments/raport-wymagania.pdf",
+    "Style and formatting - Copy/attachments/Pomoc-kopia.pdf",
+    "Style and formatting - Copy/attachments/Latex-ksiazka.pdf",
+    "Style and formatting - Copy/attachments",
+    "Style and formatting - Copy/Nice reports How-To.md",
+    "Style and formatting - Copy/Formatting notes How-To.md",
+    "Style and formatting - Copy",
+    "Style and formatting.md",
+    "Style and formatting/Nice reports How-To",
+    "Style and formatting/Własne_doświadczenia.txt",
+    "Style and formatting/attachments/Latex_ksiazka.pdf",
+    "Untitled.canvas",
+    "Most important Obsidian settings (BL) (read me at the end.md",
+    "Welcome.md"
+  ]
+}

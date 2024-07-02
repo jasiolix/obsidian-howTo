@@ -1,0 +1,1 @@
+### New note can be created from [[Anything]] by highlighting it and clicking left square bracket 2 times!

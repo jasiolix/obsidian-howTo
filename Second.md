@@ -1,0 +1,1 @@
+## Hi, I'm Second  and my successor is [[Third]], which is linked by putting its name in double square brackets!
