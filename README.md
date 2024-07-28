@@ -1,3 +1,4 @@
 # Obsidian-How-To
 
-## My personal tutorial explaining core obsidian concepts
+## How to use
+Simply start reading Tutorial start!

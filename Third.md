@@ -1,1 +1,2 @@
 ### New note can be created from [[Anything]] by highlighting it and clicking left square bracket 2 times!
+- I can also create hyperlinks to internet websites by like this: [link to google](www.google.com) by putting link name in square brackets and url in round brackets: \[<\name\>\]\(\<url\>\)

@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Most important Obsidian settings (BL).md",
-                "mode": "source",
+                "file": "Third.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Most important Obsidian settings (BL).md",
+                "file": "Third.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Most important Obsidian settings (BL).md",
+                "file": "Third.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Most important Obsidian settings (BL).md"
+                "file": "Third.md"
               }
             }
           }
@@ -148,11 +148,15 @@
   },
   "active": "f7c49724c755bd6e",
   "lastOpenFiles": [
-    "Most important community plugins.md",
+    "README.md",
+    "Second.md",
+    "Third.md",
+    "Tutorial end.md",
     "Most important Obsidian settings (BL).md",
-    "Style and formatting/attachments/Untitled.png",
+    "Most important community plugins.md",
     "Anything.md",
     "Tutorial start.md",
+    "Style and formatting/attachments/Untitled.png",
     "attachments/Untitled.png",
     "attachments",
     "Untitled.png",
@@ -160,9 +164,6 @@
     "Style and formatting/Untitled.png",
     "Style and formatting/attachments/Latex-ksiazka.pdf",
     "Style and formatting/Nice reports How-To.md",
-    "Tutorial end.md",
-    "Third.md",
-    "Second.md",
     "some other idea.md",
     "Style and formatting - Copy/attachments/raport-wymagania.pdf",
     "Style and formatting - Copy/attachments/Pomoc-kopia.pdf",
