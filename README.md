@@ -1,4 +1,7 @@
 # Obsidian-HowTo
 
 ## How to use
-Simply start reading Tutorial start!
+- Download obsidian
+- clone this repo
+- click open vault and choose the cloned repo folder
+- start reading Tutorial start
