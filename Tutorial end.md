@@ -7,4 +7,5 @@ But how did I even end up here???? Fortunately, I have 2 cool options:
 Now feel free to checkout other notes that will help you on your Obsidian journey: 
 - [[Most important community plugins]]
 - [[Most important Obsidian settings (BL)]]
+- [[Why should you use Obsidian]]
 Also, check out the ==Style and formatting== folder to write better notes ! 
