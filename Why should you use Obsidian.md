@@ -3,3 +3,4 @@
 2. When you write stuff down, you actually explain it better, which means you understand and develop it better
 3. You don't feel like you are wasting time. You can see what you did everyday, especially thanks to the calendar plugin ([[Most important community plugins]])
 4. You can "measure" how creative you are, by looking how strongly coupled (by references) are your thoughts (notes)
+	- Others notetaking tools, e.g. Apple Notes, or Windows Notepad, don't offer this graph view functionality, which is why Obsidian is so cool 
