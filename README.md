@@ -1,6 +1,6 @@
-# Obsidian-HowTo
+# obsidian-howTo
 
-This is a pretty thorough and condensed tutorial on how to start using Obsidian, that I originally intended to prepare only for myself, in case I needed to refresh my memory. It should take about 15-20 minutes to complete.
+This is a pretty thorough and condensed tutorial on how to start using Obsidian, that I originally intended to prepare only for myself, in case I needed to refresh my memory. I used the "show, **and** tell" approach. It should take about 15-20 minutes to complete. I tried to focus only on the most important, built-in functionalities of Obsidian, and not additional stuff, such as Community Plugins.
 ## How to download and use this tutorial
 - Download obsidian
 - clone this repo
