@@ -1,6 +1,6 @@
 # obsidian-howTo
 
-This is a pretty thorough and condensed tutorial on how to start using Obsidian, that I originally intended to prepare only for myself, in case I needed to refresh my memory. I used the "show, **and** tell" approach. It should take about 15-20 minutes to complete. I tried to focus only on the most important, built-in functionalities of Obsidian, and not additional stuff, such as Community Plugins.
+This is a pretty thorough and condensed tutorial on how to start using Obsidian, that I originally intended to prepare only for myself, in case I needed to refresh my memory. I used the "show, **and** tell" approach. It should take about 15-20 minutes to complete. I tried to focus only on the most important, built-in functionalities of Obsidian, and not additional stuff, such as Community Plugins. Sections of this README after the "How to download and use this tutorial" section are optional to read, and only serve the purpose of explaining why one might consider using Obsidian.
 ## How to download and use this tutorial
 - Download obsidian
 - clone this repo
@@ -27,12 +27,12 @@ I wrote this section as a numbered list of my personal problems, and how I try t
 	- I think it also kind of explains why I feel "lighter" after using obsidian for some time, and I have less headaches. Maybe it is because I don't need to overuse my brain just to remember stuff. I can just put them in Obsidian and take a look whenever I want to refresh my memory, or revise some already well thought out idea.
 2. When I write stuff down, I am actually explaining it to myself, which means that I can understand and develop my ideas better (whatever better means depending on the context, whether I am creating a computer application, doing groceries, or thinking about anime \[redacted\])
 3. I don't feel like I am wasting time. I can see what I did everyday by creating daily notes (basic Calendar Obsidian plugin allows me to do it efficiently)\
-## What unexpected functionalities/use-cases surprised me the most when I started using Obsidian?
+# What unexpected functionalities/use-cases surprised me the most when I started using Obsidian?
 
 - I think it is the fact that I can "measure" how creative I am, by looking how strongly coupled (by Obsidian links) are my thoughts (Obsidian notes). Others notetaking tools, e.g. Apple Notes, or Windows Notepad, don't offer this graph view functionality, which is why Obsidian is so cool in my opinion.
 - Obsidian completely changed how I approach writing any type of text. Instead of first creating sections like Introduction, Summary, Abstract etc. I just compose text from smaller notes, until it becomes a complete structure naturally. Basically, I used to write text using top-down approach, but now I prefer down-top approach, in which I collect all the thoughts about the topic of text, before I impose any kind of structure on it.  
 
-## How I am currently using Obsidian (what is my workflow)?
+# How I am currently using Obsidian (what is my workflow)?
 - I store everything in single private vault called "Second Brain". I think it is better than having multiple vaults, because it restricts your ability to make arbitrary links between notes.
 - If I am not doing something specific, and I am just writing down my thoughts, I put them all inside the daily note (e.g. note called "2024-08-28"). Then in the evening I try to find time to actually look through these random thoughts, and fit them into my Obsidian structure. 
 
