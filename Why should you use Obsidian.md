@@ -1,6 +1,0 @@
-1. When you note stuff, you free the "hard-drive" type of data of your brain. Remember that brain has no designates spot for hard-drive and RAM, like PC, so you should only focus on RAM (working memory)
-	- I think it actually explains why I feel "lighter" after using obsidian all the time. I just don't need to overuse my brain just to remember stuff. I can just put them here and take a look whenever I feel like refreshing my memory, or considering some already well thought out idea
-2. When you write stuff down, you actually explain it better, which means you understand and develop it better
-3. You don't feel like you are wasting time. You can see what you did everyday, especially thanks to the calendar plugin ([[Most important community plugins]])
-4. You can "measure" how creative you are, by looking how strongly coupled (by references) are your thoughts (notes)
-	- Others notetaking tools, e.g. Apple Notes, or Windows Notepad, don't offer this graph view functionality, which is why Obsidian is so cool 

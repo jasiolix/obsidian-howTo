@@ -13,3 +13,4 @@
 4. Hotkeys
 	1. Preview/Edit markdown
 	2. Source/View html
+	3. "Select a command..." search bar

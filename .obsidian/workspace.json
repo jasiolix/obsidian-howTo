@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Why should you use Obsidian.md",
-                "mode": "preview",
+                "file": "README.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Why should you use Obsidian.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Why should you use Obsidian.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Why should you use Obsidian.md"
+                "file": "README.md"
               }
             }
           }
@@ -148,16 +148,17 @@
   },
   "active": "f7c49724c755bd6e",
   "lastOpenFiles": [
+    "Introduction to Obsidian.md",
+    "README.md",
     "Most important community plugins.md",
-    "Why should you use Obsidian.md",
+    "Most important Obsidian settings (BL).md",
     "Tutorial end.md",
-    "Third.md",
+    "Style and formatting.md",
     "Tutorial start.md",
+    "Third.md",
     "Style and formatting/Formatting notes How-To.md",
     "Style and formatting/Nice reports How-To.md",
     "Anything.md",
-    "Most important Obsidian settings (BL).md",
-    "README.md",
     "Second.md",
     "Style and formatting/attachments/Untitled.png",
     "attachments/Untitled.png",
@@ -173,7 +174,6 @@
     "Style and formatting - Copy/Nice reports How-To.md",
     "Style and formatting - Copy/Formatting notes How-To.md",
     "Style and formatting - Copy",
-    "Style and formatting.md",
     "Style and formatting/Nice reports How-To",
     "Style and formatting/Własne_doświadczenia.txt",
     "Style and formatting/attachments/Latex_ksiazka.pdf",
