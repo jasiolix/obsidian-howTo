@@ -1,6 +1,6 @@
 # obsidian-howTo
 
-This is a pretty thorough and condensed tutorial on the main functionalities of Obsidian, that I originally intended to prepare only for myself, in case I needed to refresh my memory. I used the "show, **and** tell" approach. It should take about 15-20 minutes to complete. I tried to focus only on the most important, built-in functionalities of Obsidian, and not additional stuff, such as Community Plugins. Sections of this README after the "How to download and use this tutorial" section are optional to read, and only serve the purpose of explaining why one might consider using Obsidian, and consider note-taking in general.
+This is a pretty thorough and condensed tutorial on the main functionalities of Obsidian, that I originally intended to prepare only for myself, in case I needed to refresh my memory. I used the "show, **and** tell" approach. It should take about 15-20 minutes to complete. I tried to focus only on the most important, built-in functionalities of Obsidian, and not additional stuff, such as Community Plugins. Sections of this README after the "How to download and use this tutorial" are optional to read, and only serve the purpose of explaining why one might consider using Obsidian, and consider note-taking in general.
 ## How to download and use this tutorial
 - Download obsidian
 - clone this repo
