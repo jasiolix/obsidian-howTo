@@ -8,7 +8,7 @@ This is a pretty thorough and condensed tutorial on how to start using Obsidian,
 - start tutorial from reading "Tutorial start" note
 
 # Who is Obsidian for?
-To be honest, I have no idea, but **I do have an idea why it worked for me specifically** (and why it might work for you). I will only try to tell you my story with Obsidian, and not convince you why you should be using it. 
+To be honest, I have no idea, but **I do have an idea why it worked for me specifically** (and why it might work for you). I will only try to tell you my story with Obsidian, and I won't try convince you why you should be using it. 
 ## Why I started using Obsidian?
 
 I wrote this section as a numbered list of my personal problems, and how I try to solve them by using Obsidian:
