@@ -29,7 +29,7 @@ I wrote this section as a numbered list of my personal problems, and how I try t
 3. I don't feel like I am wasting time. I can see what I did everyday by creating daily notes (basic Calendar Obsidian plugin allows me to do it efficiently)\
 ## What unexpected functionality surprised me the most when I started using Obsidian?
 
-I think it is the fact that, I can "measure" how creative I am, by looking how strongly coupled (by Obsidian links) are my thoughts (Obsidian notes). Others notetaking tools, e.g. Apple Notes, or Windows Notepad, don't offer this graph view functionality, which is why Obsidian is so cool in my opinion.
+I think it is the fact that I can "measure" how creative I am, by looking how strongly coupled (by Obsidian links) are my thoughts (Obsidian notes). Others notetaking tools, e.g. Apple Notes, or Windows Notepad, don't offer this graph view functionality, which is why Obsidian is so cool in my opinion.
 
 ## How I am currently using Obsidian (what is my workflow)?
 - I store everything in single private vault called "Second Brain". I think it is better than having multiple vaults, because it restricts your ability to make arbitrary links between notes.
